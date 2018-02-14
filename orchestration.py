@@ -9,7 +9,7 @@ class Orchestration(object):
         'fingerprint': '',
         'key_file': '.',
         'log_requests': False,
-        'pass_phrase': 'terraform',
+        'pass_phrase': '',
         'region': 'us-ashburn-1',
         'tenancy': '',
         'user': ''
